@@ -1,0 +1,69 @@
+	  .letter { 
+	  	border-style: solid; 
+	  	padding: 2px; 
+	  	margin: 2px; 
+	  }   
+	  #display { 
+	  	height: 100%; 
+	  	width: 100%; 
+	  	padding: 50px; 
+	  	padding-bottom: 50px; 	  	
+	  } 	  
+	  #buttons { 
+	  	text-align: center; 
+	  } 
+	  #time{
+	  	text-align: center;
+	  }
+	  .each-button{ 
+	  	margin:	4px; 
+	  	height: 40px; 
+	  	width: 200px; 
+	  }  
+	  .img{ 
+	  	height: 400px; 
+	  	width:250px; 
+	  	margin-left: auto; 
+	  	margin-right: auto; 
+	  	display: block; 
+	  } 
+	  .mydiv {  
+	  	display: inline;  
+	  } 
+	  .hidden{  
+	  	display: none:  
+	  } 
+	  .wrapper{ 
+	  	display: inline;  
+	  } 
+	  .display-word{ 
+	  	text-align: center; 
+	  } 
+	  .reset-button{ 
+	  	text-align: center; 
+	  } 
+	  .question-num{
+	  	text-align: center; 
+	  }
+	  .previous-guess{ 
+	  	text-align: left; 
+	  } 
+	  .guessed-answer{
+	  	text-align: center;
+	  }
+	  .previous-answer{
+	  	text-align: left;
+	  }
+	  .correct-incorrect{
+	  	text-align: center;
+	  }
+	  .score
+	  {
+	  	text-align: center;
+	  }
+	  .score-percentage{
+	  	text-align: center;
+	  }
+	  .game-over{
+	  	text-align: center;
+	  }
