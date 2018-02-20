@@ -34,7 +34,7 @@ var game = {
 		correctAnswer: "Ryan Gendel"
 	},
 	{
-		question: "5: What was the best sport?", 
+		question: "5: What is the best sport?", 
 		option1: "Skiing", 
 		option2: "Football",
 		option3: "Snowboarding",
